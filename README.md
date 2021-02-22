@@ -1,3 +1,5 @@
+[![time tracker](https://wakatime.com/badge/github/Tongzzzzz/Tongzzzzz.svg)](https://wakatime.com/badge/github/Tongzzzzz/Tongzzzzz)
+
 ### Hi there 👋
 
 <!--
